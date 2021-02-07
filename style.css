@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+* {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.main {
+    height: 60vh;
+    text-align: center;
+    font-size: 6rem;
+    padding-top: 10%;
+    text-shadow: 2px 2px white;
+    background: url("https://thumbs.gfycat.com/BogusAlertCaracal-small.gif") no-repeat center center/cover;
+}
+
+.thegames {
+    text-align: center;
+    /* font-size: 2rem; */
+}
+
+.thegames h1:nth-child(1) {
+    font-size: 2rem;
+}
+
+.game {
+    text-align: left;
+    padding: 5%;
+    width: 62.5%;
+}
+
+.game img {
+    width: 100%;
+}
+
+.game h1 {
+    font-size: 15px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 10vh;
+}
